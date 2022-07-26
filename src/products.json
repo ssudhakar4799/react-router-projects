@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "apple", "price": 120, "qty": 0,"img":"./istockphoto-183422512-170667a.jpg"},
+  { "id": 2, "name": "orange", "price": 100, "qty": 0,"img":"./istockphoto-1227301369-170667a.jpg"},
+  { "id": 3, "name": "grapes", "price": 140, "qty": 0,"img":"./three-grapes-leaves-7467011.jpg"},
+  { "id": 4, "name": "guava", "price": 130, "qty": 0,"img":"istockphoto-172473459-170667a.jpg" },
+  { "id": 5, "name": "mango", "price": 150, "qty": 0,"img":"./mango-ripe-white-background-35283521.jpg"}
+]
